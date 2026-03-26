@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L6983N33QTR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=17
+Version=4.1
+Released=2022-10-07 03:56:14
+Downloaded=2026-03-24 09:52:09
+3D=Y

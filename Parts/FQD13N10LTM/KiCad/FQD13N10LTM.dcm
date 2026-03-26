@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FQD13N10LTM
+D 10A, 100V, RDS(on) = 180m(Max.) @VGS = 10 V, ID = 5A; 100% avalanche tested; Low Crss ( Typ. 20pF); Low gate charge ( Typ. 8.7nC)
+K
+F https://www.onsemi.com/pub/Collateral/FQU13N10L-D.pdf
+$ENDCMP
+#
+#End Doc Library

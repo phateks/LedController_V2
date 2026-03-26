@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=FQD13N10LTM
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=3
+Version=2.1
+Released=2019-11-09 22:54:30
+Downloaded=2026-03-24 09:45:59
+3D=Y
