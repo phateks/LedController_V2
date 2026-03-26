@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XAL6060-472MEC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2020-04-29 10:14:12
+Downloaded=2026-03-26 10:06:29
+3D=Y

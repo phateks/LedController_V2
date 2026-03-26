@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XAL6060-472MEC
+D Fixed Inductors 4.7uH 20% 11A 14.40mOhms AEC-Q200
+K
+F https://componentsearchengine.com/Datasheets/2/XAL6060-472MEC.pdf
+$ENDCMP
+#
+#End Doc Library
