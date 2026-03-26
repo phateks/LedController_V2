@@ -783,168 +783,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:L"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "L"
-				(at -1.27 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "L"
-				(at 1.905 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Inductor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "inductor choke coil reactor magnetic"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Choke_* *Coil* Inductor_* L_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "L_0_1"
-				(arc
-					(start 0 2.54)
-					(mid 0.6323 1.905)
-					(end 0 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 1.27)
-					(mid 0.6323 0.635)
-					(end 0 0)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 0)
-					(mid 0.6323 -0.635)
-					(end 0 -1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start 0 -1.27)
-					(mid 0.6323 -1.905)
-					(end 0 -2.54)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "L_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -3361,6 +3199,218 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "desk:XAL6060-472MEC"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "L"
+				(at 16.51 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "XAL6060-472MEC"
+				(at 16.51 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "desk:XAL6060472MEC"
+				(at 16.51 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/XAL6060-472MEC.pdf"
+				(at 16.51 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fixed Inductors 4.7uH 20% 11A 14.40mOhms AEC-Q200"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "6.1"
+				(at 16.51 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "COILCRAFT"
+				(at 16.51 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "XAL6060-472MEC"
+				(at 16.51 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "994-XAL6060-472MEC"
+				(at 16.51 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL6060-472MEC?qs=zCSbvcPd3pajUkm1Owi1LA%3D%3D"
+				(at 16.51 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 16.51 -896.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 16.51 -996.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "XAL6060-472MEC_1_1"
+				(arc
+					(start 5.08 0)
+					(mid 6.35 1.219)
+					(end 7.62 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 7.62 0)
+					(mid 8.89 1.219)
+					(end 10.16 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 10.16 0)
+					(mid 11.43 1.219)
+					(end 12.7 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 12.7 0)
+					(mid 13.97 1.219)
+					(end 15.24 0)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GNDREF"
 			(power)
 			(pin_numbers
@@ -3686,7 +3736,7 @@
 		(uuid "97bc777e-641f-4b65-b399-4f373193d3ce")
 	)
 	(junction
-		(at 129.54 39.37)
+		(at 142.24 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d50cec2-1f55-4668-99ec-21f0e966b881")
@@ -3770,13 +3820,13 @@
 		(uuid "e1962193-d72b-4d5e-8fad-c6c29b86deee")
 	)
 	(junction
-		(at 138.43 39.37)
+		(at 151.13 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e35d57cd-6711-45da-bf2a-21cac4627d91")
 	)
 	(junction
-		(at 125.73 39.37)
+		(at 138.43 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7feb8aa-e713-4ac4-b5d5-8e5cdb10dd75")
@@ -3933,7 +3983,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 29.21) (xy 125.73 39.37)
+			(xy 138.43 29.21) (xy 138.43 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4053,7 +4103,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 40.64) (xy 129.54 39.37)
+			(xy 142.24 40.64) (xy 142.24 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4233,7 +4283,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 39.37) (xy 138.43 39.37)
+			(xy 142.24 39.37) (xy 151.13 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4273,7 +4323,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 39.37) (xy 129.54 39.37)
+			(xy 138.43 39.37) (xy 142.24 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4293,7 +4343,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 39.37) (xy 125.73 39.37)
+			(xy 137.16 39.37) (xy 138.43 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4353,7 +4403,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 34.29) (xy 138.43 39.37)
+			(xy 151.13 34.29) (xy 151.13 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4483,7 +4533,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 39.37) (xy 139.7 39.37)
+			(xy 151.13 39.37) (xy 152.4 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4503,7 +4553,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 48.26) (xy 129.54 52.07)
+			(xy 142.24 48.26) (xy 142.24 52.07)
 		)
 		(stroke
 			(width 0)
@@ -5477,7 +5527,7 @@
 	)
 	(global_label "Vbias"
 		(shape input)
-		(at 125.73 29.21 90)
+		(at 138.43 29.21 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5487,7 +5537,7 @@
 		)
 		(uuid "c0e93642-4dff-4e3a-948e-3de82695fbd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 125.73 21.2053 90)
+			(at 138.43 21.2053 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5631,7 +5681,7 @@
 	)
 	(global_label "FbOut"
 		(shape input)
-		(at 138.43 34.29 90)
+		(at 151.13 34.29 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5641,7 +5691,7 @@
 		)
 		(uuid "e95ddb72-3c74-4215-947a-898b9a5e349d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.43 25.862 90)
+			(at 151.13 25.862 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5697,7 +5747,7 @@
 	)
 	(global_label "3v3"
 		(shape input)
-		(at 139.7 39.37 0)
+		(at 152.4 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5707,7 +5757,7 @@
 		)
 		(uuid "f8103101-3844-4c56-baf7-8f0c70bb8154")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 146.0718 39.37 0)
+			(at 158.7718 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6059,75 +6109,6 @@
 			(project ""
 				(path "/f7384fac-022b-47e0-8e4e-5c549011b8cf"
 					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 120.65 39.37 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "25970d8d-1e14-42fe-b394-707bac38d1b3")
-		(property "Reference" "L1"
-			(at 120.65 34.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "4,7uH"
-			(at 120.65 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
-			(at 120.65 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Inductor"
-			(at 120.65 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c0aa7103-ff5a-4d41-b9da-664967676b4f")
-		)
-		(pin "2"
-			(uuid "cd5f6f6a-49f9-4de3-a7f5-e95bd71f8e5c")
-		)
-		(instances
-			(project ""
-				(path "/f7384fac-022b-47e0-8e4e-5c549011b8cf"
-					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -7410,7 +7391,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDREF")
-		(at 129.54 52.07 0)
+		(at 142.24 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7419,7 +7400,7 @@
 		(fields_autoplaced yes)
 		(uuid "6834dbea-ee0a-471e-824b-0554044981e9")
 		(property "Reference" "#PWR04"
-			(at 129.54 58.42 0)
+			(at 142.24 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7428,7 +7409,7 @@
 			)
 		)
 		(property "Value" "GNDREF"
-			(at 129.54 57.15 0)
+			(at 142.24 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7436,7 +7417,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 52.07 0)
+			(at 142.24 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7445,7 +7426,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 52.07 0)
+			(at 142.24 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7454,7 +7435,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 129.54 52.07 0)
+			(at 142.24 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7879,6 +7860,146 @@
 		)
 	)
 	(symbol
+		(lib_id "desk:XAL6060-472MEC")
+		(at 116.84 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "81968943-26cc-4ff3-b3e5-288f3fc15b2a")
+		(property "Reference" "L2"
+			(at 127 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "XAL6060-472MEC"
+			(at 127 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "desk:XAL6060472MEC"
+			(at 133.35 135.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/XAL6060-472MEC.pdf"
+			(at 133.35 235.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fixed Inductors 4.7uH 20% 11A 14.40mOhms AEC-Q200"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "6.1"
+			(at 133.35 435.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "COILCRAFT"
+			(at 133.35 535.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "XAL6060-472MEC"
+			(at 133.35 635.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "994-XAL6060-472MEC"
+			(at 133.35 735.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/XAL6060-472MEC?qs=zCSbvcPd3pajUkm1Owi1LA%3D%3D"
+			(at 133.35 835.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 133.35 935.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 133.35 1035.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b17a154-c688-4d67-a56a-6412fe6d4b9b")
+		)
+		(pin "2"
+			(uuid "69469ee2-def1-4682-9f8d-953735063a14")
+		)
+		(instances
+			(project ""
+				(path "/f7384fac-022b-47e0-8e4e-5c549011b8cf"
+					(reference "L2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDREF")
 		(at 205.74 119.38 0)
 		(unit 1)
@@ -8151,7 +8272,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 129.54 44.45 0)
+		(at 142.24 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8160,7 +8281,7 @@
 		(fields_autoplaced yes)
 		(uuid "a140a87b-9602-42ea-9525-f44e91a2d0b3")
 		(property "Reference" "Cout2"
-			(at 133.35 43.1799 0)
+			(at 146.05 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8169,7 +8290,7 @@
 			)
 		)
 		(property "Value" "47uF"
-			(at 133.35 45.7199 0)
+			(at 146.05 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8178,7 +8299,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
-			(at 130.5052 48.26 0)
+			(at 143.2052 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8187,7 +8308,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 129.54 44.45 0)
+			(at 142.24 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8196,7 +8317,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 129.54 44.45 0)
+			(at 142.24 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
