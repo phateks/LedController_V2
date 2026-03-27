@@ -6132,7 +6132,7 @@
 				)
 			)
 		)
-		(property "Value" "100Ohm"
+		(property "Value" "100K"
 			(at 43.18 27.94 90)
 			(effects
 				(font
@@ -9235,7 +9235,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1Mohm"
 			(at 55.88 38.354 90)
 			(effects
 				(font
