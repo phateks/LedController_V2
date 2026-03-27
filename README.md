@@ -7,6 +7,7 @@
 	</tr>
 </table>
 
+> **_NOTE:_** Add in Kicad the "desk" library 
 
 ## Power
 - Input: 12 or 24 VDC on J1 connector
