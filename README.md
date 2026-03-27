@@ -12,6 +12,8 @@
 ## Power
 - Input: 12 or 24 VDC on J1 connector
 
+  > **_NOTE:_** This version can run up to 5A !!
+
 
 ## Connections for Digital LED
 - DO (DATA) 
