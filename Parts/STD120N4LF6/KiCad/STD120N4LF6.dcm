@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STD120N4LF6
+D N-Channel 40 V 80A (Tc) 110W (Tc) Surface Mount DPAK , 4mOhm @ 40A, 10V , 4300 pF @ 25V , 110W (Tc) , -55C ~ 175C (TJ)
+K
+F https://www.st.com/resource/en/datasheet/stb120n4lf6.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STD120N4LF6
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=3
+Version=3.2
+Released=2019-02-20 20:43:01
+Downloaded=2026-03-27 14:35:47
+3D=Y
