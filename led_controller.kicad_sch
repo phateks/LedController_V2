@@ -990,6 +990,266 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "desk:5973324507F"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "LED"
+				(at 12.7 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "5973324507F"
+				(at 12.7 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "desk:5973324507F"
+				(at 12.7 -93.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://s3-us-west-2.amazonaws.com/catsy.557/C18367A.pdf"
+				(at 12.7 -193.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Description" "Green 527nm LED Indication - Discrete 3V 0603 (1608 Metric)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "0.677"
+				(at 12.7 -393.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Dialight"
+				(at 12.7 -493.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "5973324507F"
+				(at 12.7 -593.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "645-5973324507F"
+				(at 12.7 -693.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Dialight/5973324507F?qs=gTYE2QTfZfRQvTQx8uApgw%3D%3D"
+				(at 12.7 -793.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Part Number" ""
+				(at 12.7 -893.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Arrow Price/Stock" ""
+				(at 12.7 -993.65 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "5973324507F_1_1"
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 2.54) (xy 5.08 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 2.54) (xy 3.81 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 8.89 2.54) (xy 6.35 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.16 0) (xy 12.7 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "desk:ESP32-C3-MINI-1-N4X"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3864,10 +4124,6 @@
 		(uuid "1d6b824f-ed5e-4045-9f0b-c1d871a4316e")
 	)
 	(no_connect
-		(at 115.57 105.41)
-		(uuid "2cfba2d3-711e-458f-ba08-75d7bcc6b994")
-	)
-	(no_connect
 		(at 148.59 97.79)
 		(uuid "3c0b4f59-c8e8-45bc-b2e2-d5bad86043b0")
 	)
@@ -3900,8 +4156,8 @@
 		(uuid "91e107a6-7f79-4930-bd19-4ea1c5c99b5c")
 	)
 	(no_connect
-		(at 115.57 107.95)
-		(uuid "c11b3bed-f25e-4f9c-9746-c4b3ba484eb4")
+		(at 115.57 105.41)
+		(uuid "db237232-ba9c-4f47-89ae-d859de93bf70")
 	)
 	(no_connect
 		(at 115.57 123.19)
@@ -4000,6 +4256,16 @@
 			(type default)
 		)
 		(uuid "10b9f0be-bce9-4e0e-ae32-e235ae28ac36")
+	)
+	(wire
+		(pts
+			(xy 113.03 107.95) (xy 115.57 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1186efee-6b33-4a28-b51d-3ed0a7a559b2")
 	)
 	(wire
 		(pts
@@ -4220,6 +4486,16 @@
 			(type default)
 		)
 		(uuid "2f9ed612-585f-470e-91bd-0aeac9c7b924")
+	)
+	(wire
+		(pts
+			(xy 113.03 109.22) (xy 113.03 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "303af2d1-dad1-4e21-a1d1-0f280a9141f1")
 	)
 	(wire
 		(pts
@@ -4543,6 +4819,16 @@
 	)
 	(wire
 		(pts
+			(xy 116.84 83.82) (xy 123.19 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b6fe292-ec17-4367-9721-e393be67695c")
+	)
+	(wire
+		(pts
 			(xy 57.15 116.84) (xy 57.15 129.54)
 		)
 		(stroke
@@ -4660,6 +4946,16 @@
 			(type default)
 		)
 		(uuid "8e832d09-6897-4ea4-bfe3-bf824f7b72de")
+	)
+	(wire
+		(pts
+			(xy 110.49 109.22) (xy 113.03 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91b3b32c-adbb-4701-9cb6-276115a057d2")
 	)
 	(wire
 		(pts
@@ -5415,6 +5711,28 @@
 			)
 		)
 	)
+	(global_label "led"
+		(shape input)
+		(at 110.49 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a7b1e660-668e-423f-8251-3876b792bed2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.602 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "3v3"
 		(shape input)
 		(at 27.94 143.51 180)
@@ -5428,6 +5746,28 @@
 		(uuid "a81d2671-0797-4218-bd2d-4de25dc87a7a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 21.5682 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "led"
+		(shape input)
+		(at 93.98 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ae10a3c8-c786-4122-a9ae-fae40351e19a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.092 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8487,6 +8827,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 97.79 83.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b064903f-ad50-4ff7-bdbf-90cf4b1a9f63")
+		(property "Reference" "R11"
+			(at 97.79 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 97.79 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 97.79 85.598 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 97.79 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 97.79 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "234d7ce9-4c49-4539-98a7-0b816021c7e4")
+		)
+		(pin "2"
+			(uuid "4e9a1769-7e0c-4b9d-9c11-1e76f64a31fe")
+		)
+		(instances
+			(project "led_controller"
+				(path "/f7384fac-022b-47e0-8e4e-5c549011b8cf"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 33.02 36.83 0)
 		(unit 1)
@@ -9286,6 +9694,146 @@
 		)
 	)
 	(symbol
+		(lib_id "desk:5973324507F")
+		(at 101.6 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc4b4ef5-821e-4151-9be0-fc39e88ff9a8")
+		(property "Reference" "LED1"
+			(at 109.22 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5973324507F"
+			(at 109.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "desk:5973324507F"
+			(at 114.3 177.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://s3-us-west-2.amazonaws.com/catsy.557/C18367A.pdf"
+			(at 114.3 277.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" "Green 527nm LED Indication - Discrete 3V 0603 (1608 Metric)"
+			(at 101.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.677"
+			(at 114.3 477.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Dialight"
+			(at 114.3 577.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "5973324507F"
+			(at 114.3 677.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "645-5973324507F"
+			(at 114.3 777.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Dialight/5973324507F?qs=gTYE2QTfZfRQvTQx8uApgw%3D%3D"
+			(at 114.3 877.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 114.3 977.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 114.3 1077.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7a686f64-c51a-4e38-aa93-169c81d4b76a")
+		)
+		(pin "1"
+			(uuid "9c4f6c09-e999-4404-adc7-60d90e0c69ce")
+		)
+		(instances
+			(project ""
+				(path "/f7384fac-022b-47e0-8e4e-5c549011b8cf"
+					(reference "LED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 39.37 46.99 0)
 		(unit 1)
@@ -9614,6 +10162,73 @@
 			(project "led_controller"
 				(path "/f7384fac-022b-47e0-8e4e-5c549011b8cf"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GNDREF")
+		(at 123.19 83.82 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f838c3a6-7cae-48c2-a761-254748e366f3")
+		(property "Reference" "#PWR02"
+			(at 129.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDREF"
+			(at 127 83.8199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 123.19 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2bbdd266-fe79-46d1-b0ae-30945699660d")
+		)
+		(instances
+			(project "led_controller"
+				(path "/f7384fac-022b-47e0-8e4e-5c549011b8cf"
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)

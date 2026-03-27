@@ -1,0 +1,9 @@
+Manufacturer=Dialight
+PartNumber=5973324507F
+PartCategory=LED
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2022-08-31 08:26:51
+Downloaded=2026-03-27 12:40:17
+3D=Y
